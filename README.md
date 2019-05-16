@@ -1,3 +1,7 @@
+---
+layout: spec # Change to `default` if you prefer not to show the sidebar.
+---
+
 ## How to install Ubuntu 18.04 LTS on VMware Fusion
 
 ### 1. Downloading Ubuntu image
